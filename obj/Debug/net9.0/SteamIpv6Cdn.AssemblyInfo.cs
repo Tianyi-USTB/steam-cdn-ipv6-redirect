@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SteamIpv6Cdn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc70923fb952458bbdd08c02604551ba77dacf61")]
 [assembly: System.Reflection.AssemblyProductAttribute("SteamIpv6Cdn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SteamIpv6Cdn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
