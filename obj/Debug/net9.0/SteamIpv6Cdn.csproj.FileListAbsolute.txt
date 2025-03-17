@@ -1,0 +1,14 @@
+/home/tianyi/WorkSpace/SteamIpv6Cdn/bin/Debug/net9.0/SteamIpv6Cdn
+/home/tianyi/WorkSpace/SteamIpv6Cdn/bin/Debug/net9.0/SteamIpv6Cdn.deps.json
+/home/tianyi/WorkSpace/SteamIpv6Cdn/bin/Debug/net9.0/SteamIpv6Cdn.runtimeconfig.json
+/home/tianyi/WorkSpace/SteamIpv6Cdn/bin/Debug/net9.0/SteamIpv6Cdn.dll
+/home/tianyi/WorkSpace/SteamIpv6Cdn/bin/Debug/net9.0/SteamIpv6Cdn.pdb
+/home/tianyi/WorkSpace/SteamIpv6Cdn/obj/Debug/net9.0/SteamIpv6Cdn.GeneratedMSBuildEditorConfig.editorconfig
+/home/tianyi/WorkSpace/SteamIpv6Cdn/obj/Debug/net9.0/SteamIpv6Cdn.AssemblyInfoInputs.cache
+/home/tianyi/WorkSpace/SteamIpv6Cdn/obj/Debug/net9.0/SteamIpv6Cdn.AssemblyInfo.cs
+/home/tianyi/WorkSpace/SteamIpv6Cdn/obj/Debug/net9.0/SteamIpv6Cdn.csproj.CoreCompileInputs.cache
+/home/tianyi/WorkSpace/SteamIpv6Cdn/obj/Debug/net9.0/SteamIpv6Cdn.dll
+/home/tianyi/WorkSpace/SteamIpv6Cdn/obj/Debug/net9.0/refint/SteamIpv6Cdn.dll
+/home/tianyi/WorkSpace/SteamIpv6Cdn/obj/Debug/net9.0/SteamIpv6Cdn.pdb
+/home/tianyi/WorkSpace/SteamIpv6Cdn/obj/Debug/net9.0/SteamIpv6Cdn.genruntimeconfig.cache
+/home/tianyi/WorkSpace/SteamIpv6Cdn/obj/Debug/net9.0/ref/SteamIpv6Cdn.dll
